@@ -11,13 +11,13 @@ Soy un desarrollador **junior** con un enfoque en **backend**, aunque actualment
 
 ## 🌟 Proyectos Destacados
 
-1. **[Juego de Slay the Spire (JavaScript)](link)**  
+1. **[Juego de Slay the Spire (JavaScript)]([link](https://github.com/linkelverde789/ficha_personaje))**  
    Un juego interactivo inspirado en **Slay the Spire**. He implementado mecánicas de juego basadas en cartas y estrategia, utilizando solo JavaScript.
 
-2. **[Hoja de Personaje de Rol (PHP)](link)**  
+2. **[Hoja de Personaje de Rol (PHP)]([link](https://github.com/linkelverde789/ficha_personaje))**  
    Una aplicación web en PHP que permite a los jugadores de rol gestionar sus hojas de personaje de manera sencilla y organizada.
 
-3. **[Servidor de Información sobre Juegos (Servlets)](link)**  
+3. **[Servidor de Información sobre Juegos (Servlets)]([link](https://github.com/linkelverde789/ficha_personaje))**  
    Un servidor que permite obtener información sobre distintos juegos usando **servlets**. Ideal para los amantes de los videojuegos que desean obtener datos específicos de diferentes títulos.
 
 ## 🤝 Colaboraciones
