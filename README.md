@@ -4,7 +4,7 @@ Soy un desarrollador **junior** con un enfoque en **backend**, aunque actualment
 
 ## 🔧 Tecnologías y Herramientas
 
-- **Lenguajes:** PHP, Java, JavaScript
+- **Lenguajes:** PHP, Java, JavaScript/TypeScript, Python y React
 - **Frameworks:** Laravel
 - **Bases de Datos:** SQL, PostgreSQL
 - **Otros:** Servlets
