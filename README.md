@@ -123,4 +123,4 @@ Supongo que con el desarrollo me pasa algo parecido: me gusta que cada pieza ten
 ## 📫 Conecta conmigo
 🐦 LinkedIn: @linkelverde789
 
-▶️ Gmail: linkelverde789
+▶️ Gmail: martinurbano.sergio@gmail.com
